@@ -1,5 +1,5 @@
 import { CursorChatProps, CursorMode } from "@fig/types/type";
-import CursorSVG from "@/public/assets/CursorSVG";
+import CursorSVG from "@/app/apps/figmaclone/public/assets/CursorSVG";
 
 const CursorChat = ({
   cursor,

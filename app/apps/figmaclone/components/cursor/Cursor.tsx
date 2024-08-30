@@ -1,4 +1,4 @@
-import CursorSVG from "@/public/assets/CursorSVG";
+import CursorSVG from "@/app/apps/figmaclone/public/assets/CursorSVG";
 
 type Props = {
   color: string;
